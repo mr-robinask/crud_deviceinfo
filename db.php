@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost"; // localhost for local MySQL server
-$username = "takerhat_todo"; // default username for MySQL in XAMPP is 'root'
-$password = "AdmiNPass##143"; // no password by default for 'root' in XAMPP
-$dbname = "takerhat_device_management_db"; // your database name
+$username = "the_username"; // default username for MySQL in XAMPP is 'root'
+$password = "the_pass"; // no password by default for 'root' in XAMPP
+$dbname = "the_db_name"; // your database name
 
 
 // Create connection
