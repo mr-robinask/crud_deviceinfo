@@ -18,6 +18,13 @@ Before you begin, ensure you have met the following requirements:
 - A web server (e.g., Apache or Nginx)
 - Composer (optional, for dependency management)
 
+Usage
+
+    Navigate to the login page and use the default credentials to log in.
+    Once logged in, you can add, view, edit, and delete device information as needed.
+    Make sure to follow secure practices when working with sensitive information like passwords.
+
+
 Default Credentials
 
     Username: admin
